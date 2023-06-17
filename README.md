@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Objetivo del  proyecto
 
 aprender el manejo de los pipes de angular:
+
 i18nSelect
 i18nPlural
 slice
