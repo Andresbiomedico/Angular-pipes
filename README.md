@@ -1,6 +1,15 @@
 # 05PipesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
+objetivo de este proyecto es aprender el manejo de los pipes de angular:
+i18nSelect
+i18nPlural
+slice
+json
+async
+
+se utilizo el primefaces para realizar el front 
+
 
 ## Development server
 
