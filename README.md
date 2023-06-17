@@ -1,7 +1,10 @@
 # 05PipesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
-objetivo de este proyecto es aprender el manejo de los pipes de angular:
+
+## Objetivo del  proyecto
+
+aprender el manejo de los pipes de angular:
 i18nSelect
 i18nPlural
 slice
